@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "mongoose": "^9.1.1"
+  },
+  "name": "book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "book.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
